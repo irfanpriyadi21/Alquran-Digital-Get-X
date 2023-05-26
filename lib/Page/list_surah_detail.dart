@@ -73,6 +73,7 @@ class ListSurahDetail extends StatelessWidget {
                             ),
                             Html(data: e.tr),
                             Text(
+
                               "${e.idn}",
                               textAlign: TextAlign.end,
                               style: GoogleFonts.poppins(

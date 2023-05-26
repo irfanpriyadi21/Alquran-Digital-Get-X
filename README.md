@@ -1,5 +1,11 @@
 # alquran_digital
 
+<p float="left">
+  <img src="/pic1.png" width="200" />
+  <img src="/pic2.png" width="200" />
+</p>
+ <img src="/pic3.png"/>
+
 A new Flutter project.
 
 ## Getting Started
